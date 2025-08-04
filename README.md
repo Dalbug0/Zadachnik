@@ -1,1 +1,1 @@
-# Zadachnik cursach1
+# Zadachnik
